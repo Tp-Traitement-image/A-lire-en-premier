@@ -1,0 +1,10 @@
+Madame,
+comme vous pourrez le constater, notre notre TP n'est pas fini car nous pensions avoir 2 jours en plus pour le fini,
+de ce faite, vous trouverez ci dessous les morceaux de ce projet.
+Il s'agit de : 
+	- L'architecture MVC fonctionnelle avec les différents menus
+	- Des différents filtres dans différents dossiers
+
+Veuillez aussi nous excuser de cet état final ainsi que du retard que nous avons car nous ne pensions pas devoir le rendre ce mercredi 27 mai.
+
+PAGOT Raphaëlle et BEUFE Valentin
